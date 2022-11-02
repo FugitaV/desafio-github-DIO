@@ -1,0 +1,10 @@
+Para clonar
+Git clone (link do repositório)
+
+para subir
+*abrir git bash na pasta
+git add .
+
+git commit -m "comentário"
+
+git push origin main
